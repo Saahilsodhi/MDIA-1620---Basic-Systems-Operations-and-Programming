@@ -6,7 +6,7 @@ const day = "evevning"
 //fix spelling on certain words
 
 
-cosnst name = "Saahil" //this variable does not print properly
+const name = "Saahil" //this variable does not print properly
 console.log("hi my name is " + name + " and my hobbies are listeing to music watching and playing sports and hanging out with my friends") 
 
 let bbq = "steak";
